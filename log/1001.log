@@ -1,0 +1,156 @@
+Fri Oct 20 19:46:20 2006 :: Init data space.
+Fri Oct 20 19:46:20 2006 :: Setting time and weather.
+Fri Oct 20 19:46:20 2006 :: Assigning GSN's.
+Fri Oct 20 19:46:20 2006 :: Loading Classes Files.
+Fri Oct 20 19:46:20 2006 :: Loading Mage.
+Fri Oct 20 19:46:20 2006 :: Loading Cleric.
+Fri Oct 20 19:46:20 2006 :: Loading Thief.
+Fri Oct 20 19:46:20 2006 :: Loading Warrior.
+Fri Oct 20 19:46:20 2006 :: Loading Ranger.
+Fri Oct 20 19:46:20 2006 :: Loading Druid.
+Fri Oct 20 19:46:20 2006 :: Loading Vampire.
+Fri Oct 20 19:46:20 2006 :: Loading Noble.
+Fri Oct 20 19:46:20 2006 :: Loading Wizard.
+Fri Oct 20 19:46:20 2006 :: Loading Priest.
+Fri Oct 20 19:46:20 2006 :: Loading Mercenary.
+Fri Oct 20 19:46:20 2006 :: Loading Gladiator.
+Fri Oct 20 19:46:20 2006 :: Loading Paladin/Strider.
+Fri Oct 20 19:46:20 2006 :: Loading sage.
+Fri Oct 20 19:46:20 2006 :: Loading lich.
+Fri Oct 20 19:46:20 2006 :: Loading Knight.
+Fri Oct 20 19:46:20 2006 :: Loading Hometown Files.
+Fri Oct 20 19:46:20 2006 :: File Nomad.home
+Fri Oct 20 19:46:20 2006 :: File Midgaard.home
+Fri Oct 20 19:46:20 2006 :: File Nornir.home
+Fri Oct 20 19:46:20 2006 :: Reading Area List.
+Fri Oct 20 19:46:20 2006 :: reading help.are
+Fri Oct 20 19:46:20 2006 :: reading librom.are
+Fri Oct 20 19:46:20 2006 :: reading clanhall.are
+Fri Oct 20 19:46:20 2006 :: reading juden.are
+Fri Oct 20 19:46:20 2006 :: reading limbo.are
+Fri Oct 20 19:46:20 2006 :: reading plains.are
+Fri Oct 20 19:46:20 2006 :: reading ofcol2.are
+Fri Oct 20 19:46:20 2006 :: reading olympus.are
+Fri Oct 20 19:46:20 2006 :: reading air.are
+Fri Oct 20 19:46:20 2006 :: reading shire.are
+Fri Oct 20 19:46:20 2006 :: reading morgue.are
+Fri Oct 20 19:46:20 2006 :: reading immort.are
+Fri Oct 20 19:46:20 2006 :: reading midgaard.are
+Fri Oct 20 19:46:20 2006 :: reading hitower.are
+Fri Oct 20 19:46:20 2006 :: reading gnome.are
+Fri Oct 20 19:46:20 2006 :: reading wyvern.are
+Fri Oct 20 19:46:20 2006 :: reading catacomb.are
+Fri Oct 20 19:46:20 2006 :: reading hood.are
+Fri Oct 20 19:46:20 2006 :: reading draconia.are
+Fri Oct 20 19:46:20 2006 :: reading mahntor.are
+Fri Oct 20 19:46:20 2006 :: reading trollden.are
+Fri Oct 20 19:46:20 2006 :: reading chapel.are
+Fri Oct 20 19:46:20 2006 :: reading midennir.are
+Fri Oct 20 19:46:20 2006 :: reading grave.are
+Fri Oct 20 19:46:20 2006 :: reading school.are
+Fri Oct 20 19:46:20 2006 :: reading camelot.are
+Fri Oct 20 19:46:20 2006 :: reading moria.are
+Fri Oct 20 19:46:20 2006 :: reading eastern.are
+Fri Oct 20 19:46:20 2006 :: reading drow.are
+Fri Oct 20 19:46:20 2006 :: reading thalos.are
+Fri Oct 20 19:46:20 2006 :: reading mirror.are
+Fri Oct 20 19:46:20 2006 :: reading ofcol.are
+Fri Oct 20 19:46:20 2006 :: reading arachnos.are
+Fri Oct 20 19:46:20 2006 :: reading haon.are
+Fri Oct 20 19:46:20 2006 :: reading dwarven.are
+Fri Oct 20 19:46:20 2006 :: reading daycare.are
+Fri Oct 20 19:46:20 2006 :: reading quifael.are
+Fri Oct 20 19:46:20 2006 :: reading sewer.are
+Fri Oct 20 19:46:20 2006 :: reading astral.are
+Fri Oct 20 19:46:20 2006 :: reading valley.are
+Fri Oct 20 19:46:20 2006 :: reading redferne.are
+Fri Oct 20 19:46:20 2006 :: reading mega1.are
+Fri Oct 20 19:46:20 2006 :: reading marsh.are
+Fri Oct 20 19:46:20 2006 :: reading dream.are
+Fri Oct 20 19:46:20 2006 :: reading pyramid.are
+Fri Oct 20 19:46:20 2006 :: reading grove.are
+Fri Oct 20 19:46:20 2006 :: reading nirvana.are
+Fri Oct 20 19:46:20 2006 :: reading dylan.are
+Fri Oct 20 19:46:20 2006 :: reading canyon.are
+Fri Oct 20 19:46:20 2006 :: reading galaxy.are
+Fri Oct 20 19:46:20 2006 :: reading mobfact.are
+Fri Oct 20 19:46:20 2006 :: reading newthalos.are
+Fri Oct 20 19:46:20 2006 :: reading tohell.are
+Fri Oct 20 19:46:20 2006 :: reading divsouls.are
+Fri Oct 20 19:46:20 2006 :: reading dark.are
+Fri Oct 20 19:46:20 2006 :: reading drakyri.are
+Fri Oct 20 19:46:20 2006 :: reading stonebow.are
+Fri Oct 20 19:46:20 2006 :: reading sacrifice.are
+Fri Oct 20 19:46:20 2006 :: reading pirate.are
+Fri Oct 20 19:46:20 2006 :: reading fanatics.are
+Fri Oct 20 19:46:20 2006 :: reading immrooms.are
+Fri Oct 20 19:46:20 2006 :: reading mhotel.are
+Fri Oct 20 19:46:20 2006 :: reading entwood.are
+Fri Oct 20 19:46:20 2006 :: reading enrel.are
+Fri Oct 20 19:46:20 2006 :: reading btrain.are
+Fri Oct 20 19:46:20 2006 :: reading umbar.are
+Fri Oct 20 19:46:20 2006 :: reading mook.are
+Fri Oct 20 19:46:20 2006 :: reading umbarg.are
+Fri Oct 20 19:46:20 2006 :: reading nschool.are
+Fri Oct 20 19:46:20 2006 :: reading seaexten.are
+Fri Oct 20 19:46:20 2006 :: reading nornir.are
+Fri Oct 20 19:46:20 2006 :: reading norfor.are
+Fri Oct 20 19:46:20 2006 :: reading desp.are
+Fri Oct 20 19:46:20 2006 :: reading zhylla.are
+Fri Oct 20 19:46:20 2006 :: reading path.are
+Fri Oct 20 19:46:20 2006 :: reading direm.are
+Fri Oct 20 19:46:20 2006 :: reading zeke.are
+Fri Oct 20 19:46:20 2006 :: reading decoheig.are
+Fri Oct 20 19:46:20 2006 :: reading museum.are
+Fri Oct 20 19:46:20 2006 :: reading castle.are
+Fri Oct 20 19:46:20 2006 :: reading raiden.are
+Fri Oct 20 19:46:20 2006 :: reading augustus.are
+Fri Oct 20 19:46:20 2006 :: reading shadowva.are
+Fri Oct 20 19:46:20 2006 :: reading portal.are
+Fri Oct 20 19:46:20 2006 :: reading unknown.are
+Fri Oct 20 19:46:20 2006 :: reading bandor.are
+Fri Oct 20 19:46:20 2006 :: reading filis.are
+Fri Oct 20 19:46:20 2006 :: reading kaz.are
+Fri Oct 20 19:46:20 2006 :: Updating Html Spells.
+Fri Oct 20 19:46:20 2006 :: Fixing exits.
+Fri Oct 20 19:46:20 2006 :: Area Update.
+Fri Oct 20 19:46:20 2006 :: Loading Moveable Exits.
+Fri Oct 20 19:46:20 2006 :: Loading Notes.
+Fri Oct 20 19:46:20 2006 :: Loading Bans.
+Fri Oct 20 19:46:20 2006 :: Loading StatList.
+Fri Oct 20 19:46:20 2006 :: Loading Wizlist.
+Fri Oct 20 19:46:20 2006 :: Loading Clanlists.
+Fri Oct 20 19:46:20 2006 :: Loading Songs.
+Fri Oct 20 19:46:20 2006 :: Loading Socials.
+Fri Oct 20 19:46:20 2006 :: ROT is ready to rock on ports 4060 and 4061, mudFTP port: 4066
+Fri Oct 20 19:46:36 2006 :: Sock.sinaddr:  127.0.0.1
+Fri Oct 20 19:46:49 2006 :: Kizeren@localhost.localdomain new player.
+Fri Oct 20 19:54:26 2006 :: Kizeren has quit.
+Fri Oct 20 19:54:26 2006 :: Start of Character Extraction for Kizeren.
+Fri Oct 20 19:54:26 2006 :: Save_char_obj ( ch ) for Kizeren.
+Fri Oct 20 19:54:26 2006 :: [*****] BUG: Attempt to recyle invalid memory of size 8.
+Fri Oct 20 19:54:26 2006 :: [*****] BUG: Kizeren
+Fri Oct 20 19:54:26 2006 :: Extract_char( ch, TRUE ) for Kizeren.
+Fri Oct 20 19:54:26 2006 :: End of Character Extraction for Kizeren.
+Fri Oct 20 21:59:48 2006 :: Sock.sinaddr:  127.0.0.1
+Fri Oct 20 21:59:50 2006 :: Loading Kizeren.
+Fri Oct 20 21:59:51 2006 :: Closing link to Kizeren.
+Fri Oct 20 21:59:53 2006 :: Sock.sinaddr:  127.0.0.1
+Fri Oct 20 21:59:55 2006 :: Loading Kizeren.
+Fri Oct 20 21:59:56 2006 :: Closing link to Kizeren.
+Fri Oct 20 21:59:58 2006 :: Sock.sinaddr:  127.0.0.1
+Fri Oct 20 21:59:59 2006 :: Loading Kizeren.
+Fri Oct 20 22:00:00 2006 :: Kizeren@localhost.localdomain has connected.
+Fri Oct 20 22:00:24 2006 :: Kizeren has quit.
+Fri Oct 20 22:00:24 2006 :: Start of Character Extraction for Kizeren.
+Fri Oct 20 22:00:24 2006 :: Save_char_obj ( ch ) for Kizeren.
+Fri Oct 20 22:00:24 2006 :: Extract_char( ch, TRUE ) for Kizeren.
+Fri Oct 20 22:00:24 2006 :: End of Character Extraction for Kizeren.
+Sat Oct 21 16:13:06 2006 :: Sock.sinaddr:  127.0.0.1
+Sat Oct 21 16:13:08 2006 :: Loading Kizeren.
+Sat Oct 21 16:13:10 2006 :: Kizeren@localhost.localdomain has connected.
+Sat Oct 21 16:13:30 2006 :: Kizeren has quit.
+Sat Oct 21 16:13:30 2006 :: Start of Character Extraction for Kizeren.
+Sat Oct 21 16:13:30 2006 :: Save_char_obj ( ch ) for Kizeren.
+Sat Oct 21 16:13:30 2006 :: Extract_char( ch, TRUE ) for Kizeren.
+Sat Oct 21 16:13:30 2006 :: End of Character Extraction for Kizeren.

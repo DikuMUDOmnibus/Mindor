@@ -1,0 +1,731 @@
+[50000] Muaso: fvlist
+[50000] Muaso: relationship
+[50000] Muaso: builder
+[50000] Muaso: clearwed
+[50000] Muaso: thunder
+[50000] Muaso: ftick
+[50000] Muaso: violate
+[50000] Muaso: check
+[50000] Muaso: wizlist
+[50000] Muaso: wizlist-edit
+[50000] Muaso: pload
+[  700] BenDover: NEWBIE INFO
+[  700] Nelin: NEWBIE INFO
+[ 3054] Moose: dragon
+[  700] Stormcaller: NEWBIE INFO
+[  700] Neablis: NEWBIE INFO
+[    0] Rurouni: blue
+[    0] Rurouni: modron
+[    0] Rurouni: dragon
+[    0] Rurouni: blue
+[    0] Rurouni: bluedragon
+[    0] Rurouni: blue dragon
+[    0] Rurouni: modron
+[  700] Rurouni: NEWBIE INFO
+[  700] Seth: NEWBIE INFO
+[  700] Drekon: NEWBIE INFO
+[  700] Drekon: tire
+[ 3383] Moose: muaso
+[ 3383] Moose: shop
+[ 3383] Moose: houise
+[ 3383] Moose: house
+[ 3383] Moose: apartment
+[  700] Joker: NEWBIE INFO
+[  700] Samoth: NEWBIE INFO
+[    0] Quasar: reddragon
+[  700] Quasar: NEWBIE INFO
+[10487] Moose: dragon
+[10487] Moose: bdragon
+[31114] Akmaro: consent
+[31106] Akmaro: config
+[ 3502] Yesme: NEWBIE INFO
+[  700] Yesme: NEWBIE INFO
+[16204] Moose: motel
+[ 3382] Diaspar: knight
+[31106] Akmaro: reddragon
+[31106] Akmaro: red dragon
+[31106] Akmaro: dragon
+[  700] Greldor: NEWBIE INFO
+[ 3382] Teddie: quest poiutns
+[ 3382] Teddie: quest points
+[  700] Koi: NEWBIE INFO
+[  700] Brewen: NEWBIE INFO
+[ 3382] Diaspar: knight
+[ 3382] Diaspar: knt
+[  700] Segovois: NEWBIE INFO
+[  700] Lotharius: NEWBIE INFO
+[ 3054] Moose: TRANFER
+[ 3054] Moose: TRANFER
+[  700] Steklo: NEWBIE INFO
+[    0] Tomaki: modron
+[  700] Tomaki: NEWBIE INFO
+[  700] Treyorn: NEWBIE INFO
+[  700] Raiga: NEWBIE INFO
+[ 3382] Teddie: tax
+[  700] Alamanther: NEWBIE INFO
+[ 3716] Samoth: remort
+[ 3716] Samoth: remort
+[  700] Samoth: NEWBIE INFO
+[  700] Vryce: NEWBIE INFO
+[    0] Bobeo: grip
+[    0] Bobeo: grip
+[    0] Bobeo: grip
+[    0] Bobeo: enhance dammage
+[    0] Bobeo: fish
+[  700] Bobeo: NEWBIE INFO
+[  700] Mara: NEWBIE INFO
+[ 3382] Moose: token
+[  700] Quasar: NEWBIE INFO
+[ 3023] Ktulu: stun
+[    0] Dejavu: modron
+[  700] Dejavu: NEWBIE INFO
+[ 3382] Dejavu: world
+[ 3001] Moose: stun
+[31113] Akmaro: fund
+[  700] Azmegas: NEWBIE INFO
+[ 3757] Azmegas: use
+[31004] Akmaro: zecho
+[  700] Samoth: world
+[  700] Lilian: NEWBIE INFO
+[  700] Tyrol: NEWBIE INFO
+[ 3502] Kabal: NEWBIE INFO
+[  700] Lestat: NEWBIE INFO
+[    0] Renai: fish
+[  700] Renai: NEWBIE INFO
+[ 3759] Renai: grip
+[ 3720] Renai: extra
+[ 3759] Renai: dual wield
+[ 3023] Renai: mock
+[    0] Renai: modron
+[  700] Renai: NEWBIE INFO
+[    0] Renai: weaponmaster
+[  700] Renai: NEWBIE INFO
+[ 3758] Renai: int
+[ 3758] Renai: stats
+[ 3758] Renai: attr
+[ 7035] Renai: wizlist
+[ 3712] Renai: nomad
+[ 3751] Renai: players
+[ 3751] Renai: story
+[    0] Renai: whitedragon'
+[    0] Renai: noble default
+[  700] Renai: NEWBIE INFO
+[    0] Renai: track
+[  700] Renai: NEWBIE INFO
+[  700] Shirome: NEWBIE INFO
+[ 3023] Shirome: rescure
+[ 3054] Shirome: lastime
+[ 3054] Shirome: lastname
+[ 3054] Shirome: study
+[ 3054] Shirome: teach
+[ 3054] Shirome: petname
+[ 3054] Shirome: murder
+[ 3054] Shirome: surrender
+[ 3054] Shirome: grip
+[ 3054] Shirome: dual wield
+[ 3054] Shirome: dual
+[ 3054] Shirome: age
+[ 2107] Shirome: rank
+[ 3054] Shirome: circle
+[ 3054] Shirome: remort
+[ 3054] Shirome: repent
+[ 3054] Shirome: remort
+[ 3054] Shirome: hitroll
+[ 3054] Shirome: nornir
+[ 3054] Shirome: story
+[ 3054] Shirome: story
+[32099] Nemisis: repop
+[  700] Hobart: NEWBIE INFO
+[  700] Ghend: NEWBIE INFO
+[  700] Hobart: wizlist
+[  700] Lokar: NEWBIE INFO
+[ 3007] Lokar: noble
+[ 6102] Hobart: wolf
+[ 6102] Hobart: stance
+[16204] Hobart: motel
+[16204] Hobart: motel
+[ 3054] Hobart: story
+[ 3054] Lokar: channels
+[ 3054] Hobart: safe
+[  700] Reorx: NEWBIE INFO
+[ 3758] Reorx: noble
+[ 3758] Reorx: remort
+[ 3758] Reorx: remort
+[32099] Nemisis: allow
+[32099] Nemisis: clead
+[  700] Lestat: NEWBIE INFO
+[  700] Maxamas: NEWBIE INFO
+[32101] Nemisis: award
+[32099] Nemisis: type
+[  700] Darkfire: NEWBIE INFO
+[  700] Gyerum: NEWBIE INFO
+[    0] Alma: bluedragon
+[    0] Alma: blue
+[    0] Alma: modron
+[    0] Alma: modron
+[  700] Alma: NEWBIE INFO
+[ 3750] Alma: satry
+[ 3750] Alma: stat
+[ 3750] Alma: stats
+[  700] Zoopy: kizeren
+[  700] Zoopy: muas
+[  700] Zoopy: davion
+[  700] Zoopy: nemis
+[  700] Zoopy: august
+[  700] Zoopy: all
+[  700] Sammo: NEWBIE INFO
+[  700] Sammo: world
+[  700] Sammo: remort
+[  700] Sammo: remort
+[  700] Zoo: NEWBIE INFO
+[  700] Shutup: NEWBIE INFO
+[  700] Odian: NEWBIE INFO
+[  700] Shadowfox: NEWBIE INFO
+[  700] Brewen: message
+[  700] Zel: NEWBIE INFO
+[ 3710] Zel: channels
+[  700] Katie: NEWBIE INFO
+[  700] Muwang: NEWBIE INFO
+[  700] Muwang: board
+[  700] Malcaus: NEWBIE INFO
+[  700] Katie: NEWBIE INFO
+[ 3025] Samoth: remort
+[ 3025] Samoth: remort
+[  700] Aangel: NEWBIE INFO
+[    0] Amiko: phoenix
+[  700] Amiko: NEWBIE INFO
+[  700] Opio: NEWBIE INFO
+[  700] Kingpin: NEWBIE INFO
+[32099] Nemisis: arena
+[32099] Nemisis: wizlist
+[32099] Nemisis: dragons
+[32099] Nemisis: mortals
+[32099] Nemisis: welcome
+[ 3034] Nemisis: jewels
+[ 3034] Nemisis: jewel
+[ 3014] Nemisis: clan halls
+[ 3014] Nemisis: immquest
+[32040] Nemisis: shadowvale
+[32099] Nemisis: inside
+[32197] Nemisis: temple
+[32197] Nemisis: pray
+[  700] Mkooz: NEWBIE INFO
+[32099] Nemisis: allow
+[32099] Nemisis: jedi master
+[32099] Nemisis: security
+[32099] Nemisis: story
+[32099] Nemisis: story
+[  700] Chester: NEWBIE INFO
+[  700] Chunky: NEWBIE INFO
+[  700] MacDougal: NEWBIE INFO
+[  700] Pharus: NEWBIE INFO
+[    0] Chronic: modron
+[  700] Chronic: NEWBIE INFO
+[  700] Salem: NEWBIE INFO
+[  700] Leber: NEWBIE INFO
+[  700] RuneWalsh: NEWBIE INFO
+[  700] Krtek: NEWBIE INFO
+[  700] Laizk: NEWBIE INFO
+[    0] Ailla: modron
+[  700] Ailla: NEWBIE INFO
+[  700] Lukiz: NEWBIE INFO
+[  700] Hero: NEWBIE INFO
+[  700] Xree: NEWBIE INFO
+[    0] Xoren: modr
+[    0] Xoren: modron
+[    0] Xoren: noble
+[  700] Xoren: NEWBIE INFO
+[    0] Nokomis: modron
+[  700] Nokomis: NEWBIE INFO
+[ 3758] Nokomis: wis
+[  700] Dynamike: NEWBIE INFO
+[  700] Taraz: NEWBIE INFO
+[  700] Xinilan: NEWBIE INFO
+[  700] Xinilan: channels
+[  700] Belgarath: NEWBIE INFO
+[  700] Xinilan: nore
+[  700] Saren: NEWBIE INFO
+[    0] Blight: modron
+[  700] Blight: NEWBIE INFO
+[  700] Chetter: NEWBIE INFO
+[  700] Chetter: tp
+[    0] Skeeva: modron
+[  700] Drakis: NEWBIE INFO
+[  700] Fckr: NEWBIE INFO
+[    0] Rilaere: modron
+[  700] Rilaere: NEWBIE INFO
+[  700] Chanur: NEWBIE INFO
+[ 3382] Moose: points
+[  700] Skye: NEWBIE INFO
+[  700] Testme: NEWBIE INFO
+[  700] Testme: NEWBIE INFO
+[  700] Testme: NEWBIE INFO
+[  700] Valeste: NEWBIE INFO
+[  700] Valeste: kizeren
+[  700] Jasla: NEWBIE INFO
+[  700] Llesho: NEWBIE INFO
+[  700] Arwindel: NEWBIE INFO
+[  700] Mezok: NEWBIE INFO
+[    0] Mezok: reddragon
+[    0] Mezok: dragon
+[  700] Mezok: NEWBIE INFO
+[  700] Mezok: channels
+[  700] Mezok: ooc
+[  700] Lop: NEWBIE INFO
+[ 3702] Mezok: blue
+[ 3702] Mezok: reddragon
+[ 3702] Mezok: bluedragon
+[ 3702] Mezok: autoquest
+[    0] Mezok: reddragon
+[    0] Mezok: breath
+[    0] Mezok: bluedragon
+[  700] Mezok: NEWBIE INFO
+[ 3758] Mezok: breath
+[ 3054] Lop: remort
+[  700] Trae: NEWBIE INFO
+[  700] Daknit: NEWBIE INFO
+[    0] Eldrin: bluedragon
+[    0] Eldrin: bluedragon
+[    0] Eldrin: reddragon
+[    0] Eldrin: weaponmaster
+[  700] Eldrin: NEWBIE INFO
+[30314] Kizeren: meet
+[  700] Bryce: NEWBIE INFO
+[  700] Bryce: noble
+[ 3383] Kizeren: showstat
+[  700] Nelo: NEWBIE INFO
+[  700] Froddo: NEWBIE INFO
+[ 9800] Raiden: deity
+[  719] Kizeren: reject
+[ 4310] Yesme: NEWBIE INFO
+[ 3360] Teddie: forgive
+[ 3360] Teddie: thoth
+[ 3360] Teddie: pray
+[ 3360] Teddie: church
+[ 3360] Teddie: repent
+[  700] Jade: NEWBIE INFO
+[ 3334] Teddie: otho
+[ 3334] Teddie: changer
+[ 3334] Teddie: ortho
+[ 3334] Teddie: convert
+[  700] Arikian: NEWBIE INFO
+[ 3382] Moose: story
+[ 3001] Moose: mud school
+[    0] Karzonia: phoenix
+[    0] Karzonia: reddragon
+[    0] Karzonia: reddragon
+[    0] Karzonia: bluedragon
+[  700] Karzonia: NEWBIE INFO
+[ 3382] Kizeren: wear-loc
+[ 3382] Kizeren: nornir
+[    0] Filis: modron
+[    0] Filis: modron
+[    0] Filis: blue
+[40100] Karzonia: bboard
+[40100] Karzonia: announcements
+[    0] Filis: bluedragon
+[ 4310] Filis: NEWBIE INFO
+[40101] Karzonia: sector
+[ 4310] Filis: story
+[ 3001] Banidor: NEWBIE INFO
+[ 3001] Filis: NEWBIE INFO
+[ 3001] DeNaria: NEWBIE INFO
+[ 9417] Filis: builder
+[ 3001] Lefie: NEWBIE INFO
+[ 3001] Filis: builder
+[    4] Kizeren: clear
+[    4] Filis: immortal command
+[    4] Filis: immkiss
+[    4] Filis: clearwed
+[    4] Filis: freeze
+[    4] Filis: shd
+[    4] Filis: thunder
+[ 3001] Filis: award
+[ 3250] Filis: mpedit
+[ 3250] Filis: prefix
+[ 3001] Filis: restore
+[ 3376] Filis: guildmaster
+[ 3376] Filis: gedit
+[ 3376] Filis: confinscate
+[ 3376] Filis: confiscate
+[ 3376] Filis: corner
+[ 3376] Filis: owhere
+[ 3001] Filis: rename
+[    4] Filis: ign
+[    4] Filis: dice
+[    4] Filis: immkiss
+[    4] Filis: clead
+[    4] Filis: asave
+[40100] Karzonia: restore
+[40100] Karzonia: corner
+[40100] Karzonia: stirng
+[40100] Karzonia: r cover
+[40100] Karzonia: mlead
+[40100] Karzonia: imotr
+[40100] Karzonia: cname
+[40100] Karzonia: check
+[40100] Karzonia: thunder
+[    4] Filis: cname
+[40300] Banidor: affect_room
+[40300] Banidor: affect_room
+[40300] Banidor: affect_room
+[40300] Banidor: affect_room
+[40300] Banidor: effect_room
+[40300] Banidor: sector
+[40300] Banidor: Effectroom
+[40300] Banidor: Effect room
+[40300] Banidor: Effect_room
+[  700] Filis: mlead
+[  700] Filis: raise
+[    4] Filis: mobile
+[    4] Filis: mobile edit
+[    4] Filis: edit mob
+[    4] Filis: edit mob
+[    4] Filis: spec
+[    4] Filis: act
+[    4] Filis: act
+[    4] Filis: size
+[22032] Teddie: gouge
+[22032] Teddie: remort
+[    4] Filis: spec
+[    4] Filis: material
+[    4] Filis: damtype
+[    4] Filis: mpstat
+[19998] Karzonia: wtype
+[19998] Karzonia: wclass
+[40400] Filis: rlist
+[40100] Karzonia: mpstat
+[40100] Karzonia: prefix
+[40100] Karzonia: noble
+[40100] Karzonia: wtype
+[    4] Moose: rank
+[40100] Karzonia: private
+[40400] Filis: dig
+[40104] Karzonia: mod
+[10460] Banidor: type
+[10460] Banidor: estra
+[ 3001] Entar: NEWBIE INFO
+[ 3001] Entar: NEWBIE INFO
+[40100] Karzonia: extra
+[ 3001] Lidaduz: NEWBIE INFO
+[    4] Moose: parsis
+[    4] Moose: parnis
+[40324] Banidor: ITEM_FURNITURE
+[40324] Banidor: ITEM_FURNITURE
+[  700] Karzonia: int
+[  700] Karzonia: stats
+[22008] Teddie: parnis
+[22008] Teddie: nornir
+[ 3001] Moose: mdeitat
+[ 3001] Moose: erthquake
+[40109] Karzonia: parts
+[40141] Karzonia: fish
+[40109] Karzonia: all
+[40109] Karzonia: apptype
+[40109] Karzonia: nuxes
+[40109] Karzonia: nesus
+[40109] Karzonia: nuxes
+[40109] Karzonia: as
+[40109] Karzonia: ftick
+[40109] Karzonia: clan requirements
+[40109] Karzonia: clan requirements
+[40145] Kizeren: cname
+[40145] Karzonia: wiziname
+[22028] Karzonia: part
+[40109] Karzonia: quest pill
+[40101] Karzonia: restore
+[40108] Karzonia: redt
+[    1] Karzonia: qp
+[40108] Karzonia: delp
+[ 4310] Kizeren: NEWBIE INFO
+[ 3054] Kizeren: remort
+[ 3054] Teddie: remort
+[40400] Filis: remort
+[40400] Filis: material
+[40100] Karzonia: wepaon
+[  693] Karzonia: addaffect
+[ 3001] Navilee: NEWBIE INFO
+[ 3001] Navilee: noble
+[40100] Karzonia: classes
+[  700] Karzonia: wiziname
+[40100] Karzonia: family
+[ 3001] Xylam: NEWBIE INFO
+[19993] Teddie: trust
+[ 3001] Torak: NEWBIE INFO
+[ 3001] Bwsusa: NEWBIE INFO
+[ 3001] Bwsusa: show
+[ 3049] Bwsusa: mudftp
+[ 3001] Bwsusa: track
+[40323] Banidor: wear-loc
+[40323] Banidor: WEAR-LOC
+[ 3054] Filis: trust
+[ 3013] Bwsusa: decorum
+[ 3001] Bwsusa: meditate
+[ 3001] Bwsusa: medtate
+[    0] Sejik: stun
+[ 3001] Sejik: NEWBIE INFO
+[ 3023] Sejik: trian
+[ 9414] Sejik: remort
+[ 3502] Dragonfiress: NEWBIE INFO
+[40400] Filis: grant
+[40400] Filis: rank
+[40400] Filis: grant
+[40100] Karzonia: wiziname
+[40400] Filis: saint
+[ 4327] Teddie: trust
+[32166] Augustus: award
+[ 3382] Augustus: cinfiscate
+[ 3382] Augustus: confiscate
+[ 3382] Augustus: mpedit
+[40400] Filis: saint
+[40400] Filis: talk
+[40100] Filis: olist
+[40100] Filis: clead
+[ 3001] Filis: classes
+[40400] Filis: mpstat
+[ 3001] Filis: lvl
+[ 3001] Filis: classes
+[ 3001] Filis: sector
+[40400] Augustus: oreset
+[40400] Filis: security
+[ 3001] Triannon: NEWBIE INFO
+[ 3001] Thalas: NEWBIE INFO
+[ 3502] Selrach: NEWBIE INFO
+[31432] Augustus: repop message
+[ 3001] StoneyMcGee: NEWBIE INFO
+[31406] Augustus: ITEM_FURNITURE
+[31406] Augustus: ITEM_FURNITURE
+[31406] Augustus: ITEM_FURNITURE
+[31406] Augustus: furniture
+[31406] Augustus: extra
+[31414] Augustus: wipe
+[31414] Augustus: wislap
+[31449] Augustus: second tier
+[ 3502] Revenge: NEWBIE INFO
+[ 3001] Desurisis: NEWBIE INFO
+[30201] Filis: mobsay
+[ 3382] Filis: visdeath
+[ 3054] Desurisis: story
+[    0] Sandior: dragon
+[    0] Sandior: reddragon
+[ 3001] Sandior: NEWBIE INFO
+[ 1309] Desurisis: ressurect
+[ 1309] Desurisis: reserrect
+[ 3001] Sandior: NEWBIE INFO
+[ 8902] Sandior: background
+[ 5378] Sandior: dex
+[ 5378] Sandior: dex
+[ 4327] Augustus: wipe
+[ 4327] Augustus: transer
+[ 1309] Filis: pprs
+[ 1309] Filis: prs
+[ 1309] Filis: prison
+[40400] Filis: supremacies
+[40400] Filis: demi
+[40400] Filis: kiz
+[40400] Filis: aug
+[ 4327] Sandior: rpimm
+[ 3502] Sepiroth: NEWBIE INFO
+[ 4315] Sandior: thun
+[ 4315] Sandior: award
+[ 4315] Sandior: award
+[ 4327] Sandior: load
+[ 4327] Sandior: vnum load
+[10461] Sandior: holy lighjt
+[10461] Sandior: holy light
+[ 7068] Sandior: award
+[ 3375] Sandior: envo
+[ 3375] Sandior: envemom
+[    0] Leon: black dragon
+[ 3001] Leon: NEWBIE INFO
+[ 3014] Sandior: clearwed
+[ 3014] Sandior: confiscate
+[ 3014] Sandior: confiscate
+[ 3014] Sandior: mpstat
+[40051] Sandior: clead
+[40051] Sandior: clead
+[40051] Sandior: cname
+[40051] Sandior: prefix
+[14536] Sandior: promote
+[14536] Sandior: clearweb
+[ 3109] Sandior: power 
+[ 3109] Sandior: power
+[40051] Raiden: remort
+[40051] Sandior: award
+[40051] Raiden: remort
+[ 3502] Wesker: NEWBIE INFO
+[ 3025] Leon: grant
+[ 3025] Leon: grant
+[40100] Sandior: award
+[ 3014] Leon: penaltys
+[ 3001] Nazgarn: NEWBIE INFO
+[ 1023] Karzonia: marriage
+[ 1023] Karzonia: sex
+[32000] Augustus: adeit reset
+[32000] Augustus: banish
+[ 3001] Augustus: circle
+[ 3383] Sandior: convert
+[ 9654] Sandior: may
+[ 9654] Sandior: petition
+[16300] Augustus: cbuild
+[16300] Augustus: clead
+[ 3001] Augustus: prmpt
+[ 3001] Leon: cotm ring
+[ 3001] Wicareder: NEWBIE INFO
+[16300] Augustus: rank
+[16300] Augustus: promote
+[ 3001] Augustus: allow
+[ 3001] Augustus: deny
+[ 3001] Augustus: mlead
+[16300] Augustus: show
+[16314] Augustus: cname
+[16314] Sandior: fvlist
+[ 3001] Sanid: NEWBIE INFO
+[ 3373] Bwsusa: creative
+[22036] Leon: flaming
+[22036] Leon: flaming knight
+[22036] Leon: Flaming
+[ 3019] Leon: enhantment
+[ 3001] Leon: cotn
+[ 3001] Moose: mayor
+[40302] Banidor: link
+[40302] Banidor: link
+[40400] Filis: trust
+[    0] Juion: bequil
+[ 3001] Juion: NEWBIE INFO
+[ 3001] Juion: board
+[  718] Juion: muaso
+[40100] Augustus: shape
+[40100] Augustus: channels
+[  701] Lidaduz: laws
+[  701] Augustus: laws 2
+[ 3001] Karzonia: ranks
+[40100] Karzonia: gmote
+[40100] Karzonia: rmote
+[ 3005] Juion: language
+[ 3005] Juion: person
+[ 3005] Juion: mok
+[ 3005] Juion: mock
+[ 3005] Juion: ress
+[ 3005] Karzonia: dragon
+[40100] Juion: story
+[ 3005] Juion: circle
+[ 3001] Juion: mock
+[ 3054] Juion: work of recall
+[ 3054] Juion: sections
+[ 3001] Kryptin: NEWBIE INFO
+[ 3001] Trogdor: NEWBIE INFO
+[    0] Juion: reddragon
+[    0] Juion: redragon
+[    0] Juion: bluedragon
+[    0] Juion: stun
+[    0] Juion: fish
+[ 3001] Juion: NEWBIE INFO
+[ 3033] Juion: browse
+[ 3001] Juion: NEWBIE INFO
+[ 3001] Juion: gravebind
+[ 3005] Karzonia: penaly
+[ 4310] Kalyca: NEWBIE INFO
+[ 3001] Juion: idle
+[ 4310] Karzonia: ooc
+[ 4310] Karzonia: ooc
+[ 3001] Velveeta: NEWBIE INFO
+[ 3001] Velveeta: consent
+[40100] Karzonia: craft
+[ 4310] Karzonia: wiziname
+[ 4310] Karzonia: witness
+[ 4310] Karzonia: quote
+[ 4310] Karzonia: fight
+[ 4411] Kalyca: kill
+[ 4313] Kalyca: practice train
+[ 3001] Rusty: NEWBIE INFO
+[ 4313] Kalyca: kill
+[ 4313] Kalyca: kill
+[ 4313] Kalyca: combate
+[ 3001] Docimer: NEWBIE INFO
+[ 3502] Douche: NEWBIE INFO
+[ 3001] Damocles: NEWBIE INFO
+[ 3001] Trogdor: communication
+[40306] Banidor: avitar
+[40306] Karzonia: ser
+[ 3001] Nero: NEWBIE INFO
+[ 3759] Karzonia: wtype
+[ 3759] Karzonia: high explosive
+[ 4310] Poopy: NEWBIE INFO
+[ 3001] Belgarion: NEWBIE INFO
+[ 3001] Doofus: NEWBIE INFO
+[ 4310] Denaria: NEWBIE INFO
+[ 3005] Juion: craft
+[ 3005] Karzonia: nymph
+[ 3005] Juion: ride
+[ 3005] Juion: hor
+[ 3005] Juion: multipla
+[ 3005] Juion: other
+[40314] Banidor: wclass
+[ 3001] Tryakha: NEWBIE INFO
+[40100] Tryakha: emit
+[40100] Karzonia: sedite
+[ 3501] Karzonia: mpedit
+[ 3501] Karzonia: flash
+[ 9210] Karzonia: date
+[ 9210] Karzonia: propose
+[ 9210] Karzonia: marriage
+[ 9210] Karzonia: ask
+[ 9221] Karzonia: mudftp
+[ 3382] Sandior: clead
+[ 3382] Sandior: corner
+[ 3382] Sandior: extraexp
+[ 3382] Sandior: thunder
+[ 3001] Sanami: NEWBIE INFO
+[40303] Banidor: wear-loc
+[40303] Banidor: wear-loc
+[40303] Banidor: WEAR-LOC
+[40303] Banidor: WEAR-BODY
+[40303] Banidor: WEAR-LOCATION
+[40303] Banidor: sai
+[40303] Banidor: sai
+[40303] Banidor: sai
+[40303] Banidor: SAI
+[  717] Belgarion: fighting
+[  717] Belgarion: fight
+[  717] Belgarion: kill
+[  717] Belgarion: killing
+[ 4412] Karzonia: phoenix
+[ 4412] Karzonia: phenix
+[ 4412] Karzonia: karzonia
+[ 3001] Zavier: NEWBIE INFO
+[ 4412] Karzonia: write
+[ 4412] Karzonia: craft
+[ 3001] Karzonia: concent
+[ 3001] Karzonia: concents
+[ 3001] Karzonia: consent
+[ 3001] Karzonia: consent
+[ 3001] Juion: kiz
+[ 4413] Juion: rmote
+[ 4413] Karzonia: rmote
+[ 4413] Karzonia: idle
+[ 4413] Karzonia: wecho
+[ 4413] Karzonia: allpeace
+[40100] Karzonia: clearwed
+[ 3001] Juion: ooc
+[40100] Karzonia: quiet
+[ 3001] Juion: fulfill
+[ 3001] Juion: mock
+[40111] Karzonia: sex
+[40111] Karzonia: wear-loc
+[40111] Karzonia: wersd
+[40111] Karzonia: sds
+[40111] Karzonia: werw
+[40111] Karzonia: sex
+[40303] Banidor: wear-loc
+[40303] Banidor: wear-loc
+[40111] Karzonia: shop
+[40111] Karzonia: shopkeeper
+[40303] Banidor: act
+[ 3001] Wake: NEWBIE INFO
+[ 3001] Alkazar: NEWBIE INFO
+[40111] Karzonia: shop
+[ 3001] Brand: NEWBIE INFO
+[ 3502] Beren: NEWBIE INFO
+[ 3054] Brand: remort
+[ 4310] Kizeren: NEWBIE INFO

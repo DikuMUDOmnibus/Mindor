@@ -1,0 +1,20 @@
+[ 3255] Oanda: check spelling of annihilates. 
+[13047] Oanda: up is spelt Wp
+[21100] Ryou: list
+[20901] Shaun: %r not work and %R and %o are backwards
+[ 3014] Shaun: prac kills people
+[   55] Shaun: piton's email mouth2485@aol.com
+[   55] Shaun: mook's email xleakx@hotmail.com
+[   55] Shaun: fix cgossip and qgossip
+[   58] Shaun: buildvan won't demote
+[20963] Piton: my name in score shows as {GYou are, {cG{Co{cd {wof {Rm{ri{ms{Mc{mh{ri{Re{rf{W. {xThere is no Piton Potencia
+[20901] Shaun: remove the pkill and stuff from clanlist
+[ 3713] Lizzy: ?
+[22050] Akasha: study command not working
+[22025] Lys: ac on floating eq does not affect my ac
+[ 3054] Saffron: list
+[    4] Maji: test test test
+[ 3001] Belar: test
+[ 3382] Diaspar: quest quit is a bit wierd :)
+[ 3014] Diaspar: quest list doesnt show the items for moose who is level 84 but it shows for me who is lvl 101
+[ 3382] Diaspar: the quest timer is all messed up

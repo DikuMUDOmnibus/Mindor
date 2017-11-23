@@ -1,0 +1,1020 @@
+#AREADATA
+Name DuLake~
+Builders Faze~
+VNUMs 20800 20900
+Credits [TAll ] Faze  DuLake~
+Security 1
+End
+
+
+
+#MOBILES
+#20800
+Citizen Of DuLake~
+(no short description)~
+(no long description)
+~
+~
+human~
+AG TV 0 1000 0
+40 40 81d13+405 40d10+85 13d3+25 none
+-17 -17 -17 -9
+EFHKNU 0 EFK CMP
+stand stand male 3000
+AHMV ABCDEFGHIJK small Human Flesh
+#20829
+Old Sailor~
+Old Sailor~
+A dirty old man stands here peddling goods.
+~
+~
+human~
+AB 0 0 1000 0
+90 90 181d30+1819 90d10+85 30d3+50 none
+-51 -51 -51 -32
+0 0 0 0
+stand stand male 4000
+0 ABCDEFGHIJK large unknown
+F for AHMV
+#0
+
+
+
+#OBJECTS
+#20831
+Timmy's Key~
+timmy's Lollypop~
+A small key lies here awaiting it's owner~
+unknown~
+key 0 AP
+0 0 0 0 0
+0 0 0 P
+#20859
+Doom Dagger~
+doom Dagger~
+(no description)~
+Pure Hate~
+weapon ABEJSY AN
+exotic 18 20 divine DEH
+101 2 0 P
+#0
+
+
+
+#ROOMS
+#20800
+Path To DuLake~
+Here lies a beautiful golden field, rich with life and beauties of the
+natural kind.  The golden color of its wheat seems to be of the sun itself. 
+Butterflies, bumblebees and gorgeous, colorful birds seem to be born from
+the field.  To the east and west the wondrous field spans for miles, but to
+the north hints of trees are visable.  
+~
+0 1 2
+D0
+~
+~
+0 0 20801
+S
+#20801
+DuLake Forest~
+The golden fields have given way to lush forest.  The lush plains are
+forgotten as the giant trees that the place of the flowing grains.  The
+giant trees seem to touch the clouds, letting almost no light in.  Although
+the sun's rays can't pierce the forest canopy, your surroundings are lighted
+by the fireflies dancing across the forest floor.  
+~
+0 1 3
+D1
+~
+~
+0 0 20802
+D2
+~
+~
+0 0 20800
+S
+#20802
+Forest Path~
+The Forest is growing more dense with every step.  There is but one sign
+of civilization, a small hut towards the north.  It's small homely nature is
+inviting .  To the east the path braves on towards the lake.  
+~
+0 1 3
+D0
+~
+~
+0 0 20808
+D1
+~
+~
+0 0 20803
+D3
+~
+~
+0 0 20801
+S
+#20803
+Forest Path~
+~
+0 1 3
+D1
+~
+~
+0 0 20810
+D2
+~
+~
+0 0 20830
+D3
+~
+~
+0 0 20802
+S
+#20804
+Reception Room~
+You are standing in the middle of a beautiful room.  A few people are
+huddled around the fireplace towards the right of the room.  There are men
+and women handing out hot chocolate, with or without marshmallows to all of
+the visitors.  To the west are the lodgings for all tired travelers, and
+towards the north is the Kitchen.  
+~
+0 0 0
+D0
+~
+~
+0 0 20806
+D2
+~
+~
+1 0 20808
+D3
+~
+~
+0 0 20805
+D4
+~
+~
+0 0 20809
+S
+#20805
+Guest Lodgings~
+~
+0 0 0
+D1
+~
+~
+0 0 20804
+S
+#20806
+Gandi's Kitchen~
+~
+0 0 0
+D2
+~
+~
+0 0 20804
+D5
+~
+~
+0 0 20807
+S
+#20807
+Storage Room~
+~
+0 0 0
+D4
+~
+~
+0 0 20806
+S
+#20808
+Path To Hut~
+As you near the hut you can see smoke billowing from the chimney.  There
+is a Sign here and it reads: HELLO, AND WELCOME TO DULAKE FOREST.  THE HUT
+BEFORE YOU IS OWNED BY GANDI, PROTECTER OF DULAKE AND IT'S INHABITANTS.  ALL
+VISTORS ARE WELCOME TO REST HERE ON THEIR LONG JOURNEY.  ***WORD TO THE WISE
+DON'T GET HIM MAD*** 
+~
+0 0 0
+D0
+~
+~
+1 0 20804
+D2
+~
+~
+0 0 20802
+S
+#20809
+Gandi's Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 20804
+S
+#20810
+Forest Path~
+~
+0 524288 3
+D1
+~
+~
+0 0 20811
+D3
+~
+~
+0 0 20803
+S
+#20811
+Forest Junction~
+~
+0 524289 3
+D0
+~
+~
+0 0 20812
+D1
+~
+~
+0 0 20814
+D2
+~
+~
+0 0 20813
+D3
+~
+~
+0 0 20810
+S
+#20812
+Ambush~
+~
+0 524288 3
+D2
+~
+~
+0 0 20811
+S
+#20813
+Ambush~
+~
+0 524288 0
+D0
+~
+~
+0 0 20811
+S
+#20814
+Forest Path~
+~
+0 524288 3
+D1
+~
+~
+0 0 20815
+D3
+~
+~
+0 0 20811
+S
+#20815
+Turn in Path~
+~
+0 524288 3
+D0
+~
+~
+0 0 20816
+D3
+~
+~
+0 0 20814
+S
+#20816
+Forest Path~
+~
+0 524288 3
+D0
+~
+~
+0 0 20817
+D2
+~
+~
+0 0 20815
+S
+#20817
+Forest Path~
+~
+0 524288 3
+D0
+~
+~
+0 0 20818
+D2
+~
+~
+0 0 20816
+S
+#20818
+On the Dock~
+~
+0 1 0
+D0
+~
+~
+0 0 20822
+D1
+~
+~
+0 0 20819
+D2
+~
+~
+0 0 20817
+D3
+~
+~
+0 0 20821
+S
+#20819
+On the Dock~
+~
+0 1 0
+D0
+~
+~
+0 0 20849
+D1
+~
+~
+0 0 20820
+D3
+~
+~
+0 0 20818
+S
+#20820
+On the Dock~
+~
+0 524288 0
+D0
+~
+~
+0 0 20854
+D2
+~
+~
+0 0 20829
+D3
+~
+~
+0 0 20819
+S
+#20821
+On the Dock~
+~
+0 524288 0
+D0
+~
+~
+0 0 20840
+D1
+~
+~
+0 0 20818
+D3
+~
+~
+0 0 20823
+S
+#20822
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20845
+D1
+~
+~
+0 0 20849
+D2
+~
+~
+0 0 20818
+D3
+~
+~
+0 0 20840
+S
+#20823
+On the Dock~
+~
+0 524288 0
+D0
+~
+~
+0 0 20824
+D1
+~
+~
+0 0 20821
+S
+#20824
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20825
+D1
+~
+~
+0 0 20840
+D2
+~
+~
+0 0 20823
+S
+#20825
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20826
+D1
+~
+~
+0 0 20841
+D2
+~
+~
+0 0 20824
+S
+#20826
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20827
+D1
+~
+~
+0 0 20842
+D2
+~
+~
+0 0 20825
+S
+#20827
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20828
+D1
+~
+~
+0 0 20843
+D2
+~
+~
+0 0 20826
+S
+#20828
+Sandy Shore~
+~
+0 0 10
+D1
+~
+~
+0 0 20844
+D2
+~
+~
+0 0 20827
+S
+#20829
+Marina Shop~
+~
+0 4096 0
+D0
+~
+~
+0 0 20820
+S
+#20830
+Base of The tree House~
+~
+0 0 0
+D0
+~
+~
+0 0 20803
+D4
+~
+~
+0 0 20831
+S
+#20831
+Tree House~
+~
+0 0 0
+D1
+~
+~
+0 0 20832
+D2
+~
+~
+0 0 20833
+D3
+~
+~
+0 0 20834
+D4
+~
+~
+1 20831 20835
+D5
+~
+~
+0 0 20830
+S
+#20832
+Out on a Limb~
+~
+0 0 3
+D3
+~
+~
+0 0 20831
+S
+#20833
+Out on a Limb~
+~
+0 0 3
+D0
+~
+~
+0 0 20831
+S
+#20834
+Out on a Limb~
+~
+0 0 3
+D1
+~
+~
+0 0 20831
+S
+#20835
+Top of the Tree House~
+~
+0 0 0
+D1
+~
+~
+0 0 20836
+D2
+~
+~
+0 0 20837
+D3
+~
+~
+0 0 20838
+D5
+~
+~
+1 0 20831
+S
+#20836
+Out on a Limb~
+~
+0 0 3
+D3
+~
+~
+0 0 20835
+S
+#20837
+Out on a Limb~
+~
+0 0 3
+D0
+~
+~
+0 0 20835
+D5
+~
+~
+0 0 20839
+S
+#20838
+Out on a Limb~
+~
+0 0 3
+D1
+~
+~
+0 0 20835
+S
+#20839
+Ambush~
+~
+0 0 0
+S
+#20840
+Shallow water~
+~
+0 1 7
+D0
+~
+~
+0 0 20841
+D1
+~
+~
+0 0 20822
+D2
+~
+~
+0 0 20821
+D3
+~
+~
+0 0 20824
+S
+#20841
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20842
+D1
+~
+~
+0 0 20845
+D2
+~
+~
+0 0 20840
+D3
+~
+~
+0 0 20825
+S
+#20842
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20843
+D1
+~
+~
+0 0 20846
+D2
+~
+~
+0 0 20841
+D3
+~
+~
+0 0 20826
+S
+#20843
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20844
+D1
+~
+~
+0 0 20847
+D2
+~
+~
+0 0 20842
+D3
+~
+~
+0 0 20827
+S
+#20844
+Sandy Shore~
+~
+0 1 10
+D1
+~
+~
+0 0 20848
+D2
+~
+~
+0 0 20843
+D3
+~
+~
+0 0 20828
+S
+#20845
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20846
+D1
+~
+~
+0 0 20850
+D2
+~
+~
+0 0 20822
+D3
+~
+~
+0 0 20841
+S
+#20846
+Whirlpool~
+~
+0 1 7
+D5
+~
+~
+0 0 20853
+S
+#20847
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20848
+D1
+~
+~
+0 0 20852
+D2
+~
+~
+0 0 20846
+D3
+~
+~
+0 0 20843
+S
+#20848
+Sandy Shore~
+~
+0 1 10
+D1
+~
+~
+0 0 20853
+D2
+~
+~
+0 0 20847
+D3
+~
+~
+0 0 20844
+S
+#20849
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20850
+D1
+~
+~
+0 0 20854
+D2
+~
+~
+0 0 20819
+D3
+~
+~
+0 0 20822
+S
+#20850
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20851
+D1
+~
+~
+0 0 20855
+D2
+~
+~
+0 0 20849
+D3
+~
+~
+0 0 20845
+S
+#20851
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20852
+D1
+~
+~
+0 0 20856
+D2
+~
+~
+0 0 20850
+D3
+~
+~
+0 0 20846
+S
+#20852
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20853
+D1
+~
+~
+0 0 20857
+D2
+~
+~
+0 0 20851
+D3
+~
+~
+0 0 20847
+S
+#20853
+Sandy Shore~
+~
+0 1 10
+D1
+~
+~
+0 0 20858
+D2
+~
+~
+0 0 20852
+D3
+~
+~
+0 0 20848
+S
+#20854
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20855
+D2
+~
+~
+0 0 20820
+D3
+~
+~
+0 0 20849
+S
+#20855
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20856
+D2
+~
+~
+0 0 20854
+D3
+~
+~
+0 0 20850
+S
+#20856
+DuLake~
+~
+0 1 7
+D0
+~
+~
+0 0 20857
+D2
+~
+~
+0 0 20855
+D3
+~
+~
+0 0 20851
+S
+#20857
+Shallow Water~
+~
+0 1 7
+D0
+~
+~
+0 0 20858
+D2
+~
+~
+0 0 20856
+D3
+~
+~
+0 0 20852
+S
+#20858
+Sandy Shore~
+~
+0 1 10
+D2
+~
+~
+0 0 20857
+D3
+~
+~
+0 0 20853
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20831 4 2
+D 0 20835 5 2
+M 0 20829 1 20829 1
+M 0 20829 1 20829 1
+G 0 13500 0
+G 0 3050 0
+S
+
+
+
+#SHOPS
+20829 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,91 @@
+#AREADATA
+New area~
+Builders ~
+VNUMs 40400 40499
+Credits [LOCK] New Area~
+Security 1
+RepopMsg The ground rumbles ominously.~
+End
+
+
+
+#MOBILES
+#40400
+Seigfried, God of Dragons~
+The God of Dragons, Seigfried.~
+The Lord of the Gates, and God of Dragons.
+~
+Seigfried is a Platinum scaled dragon, of pure silver scales.  He is extremely large, dwarfing almost every other dragon.  Who could stand up to the might of this dragon?  And is he really as legend says, a Panzer?
+~
+dragon~
+AB JT 0 A 500 0
+100 75 155d26+1515 75d11+95 20d40+50 none
+-44 -44 -44 -29
+0 D BEH FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVWX giant unknown
+#0
+
+
+
+#OBJECTS
+#40400
+Filis~
+legendary Golden Claws.~
+The Legendary Golden Claws of Filis~
+.~
+weapon N AN
+exotic 50 500 divine C
+104 10 0 P
+#40401
+Filis's Bright-Orange Scales~
+filis's Bright-Orange Scales~
+Filis's Bright-Orange Scales~
+Filis's scales.~
+armor MO ACDEFGHILMPS
+1000000 1000000 1000000 1000000 0
+104 -15536 0 P
+#0
+
+
+
+#ROOMS
+#40400
+The Center of Faringhall~
+A small square in the middle of Faringhall, in the center is a Fountain, which on the occasion someone jumps out.  One of the magical portals of Faringhall as the natives put it.  All around the square there is bright colors decorating it.
+~
+0 4 0
+0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 40400 0 40400
+O 0 40400 0 40400
+O 0 40400 0 40400
+O 0 40400 0 40400
+O 0 40400 0 40400
+O 0 40401 0 40400
+O 0 40401 0 40400
+O 0 40401 0 40400
+O 0 40400 0 40400
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
